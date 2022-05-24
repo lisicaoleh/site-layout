@@ -1,0 +1,10 @@
+header a {
+    text-decoration: none;
+    margin-right: 5px;
+    color: blue;
+}
+
+header a.active {
+    text-decoration: underline;
+}
+
